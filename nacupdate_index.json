@@ -1,0 +1,22 @@
+{
+  "apps": [
+    {
+      "id": "com.centesimalstopwatch",
+      "name": "Centesimal Stopwatch",
+      "version": "3.2.144",
+      "url": ""
+    },
+    {
+      "id": "com.samprcon",
+      "name": "SA-MP RCON",
+      "version": "0.0.68",
+      "url": ""
+    },
+    {
+      "id": "com.nacompllo.voicerecorderpassword",
+      "name": "Voice Recorder with Password",
+      "version": "0.0.20",
+      "url": ""
+    }
+  ]
+}
