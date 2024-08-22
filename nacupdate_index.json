@@ -8,6 +8,13 @@
       "mandatory": true
     },
     {
+      "id": "com.nacompllo.centesimalstopwatch.test",
+      "name": "Centesimal Stopwatch",
+      "version": "0.0.2",
+      "url": "https://github.com/Nacompllo/Nacupdate/releases/download/centesimal-stopwatch-v0.0.2/com.nacompllo.centesimalstopwatch.apk",
+      "mandatory": true
+    },
+    {
       "id": "com.samprcon",
       "name": "SA-MP RCON",
       "version": "0.0.68",
