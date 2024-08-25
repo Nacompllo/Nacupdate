@@ -6,20 +6,6 @@
       "version": "0.0.3",
       "url": "https://github.com/Nacompllo/Nacupdate/releases/download/centesimal-stopwatch-v0.0.3/com.nacompllo.centesimalstopwatch.apk",
       "mandatory": true
-    },
-    {
-      "id": "com.samprcon",
-      "name": "SA-MP RCON",
-      "version": "0.0.68",
-      "url": "",
-      "mandatory": false
-    },
-    {
-      "id": "com.nacompllo.voicerecorderpassword",
-      "name": "Voice Recorder with Password",
-      "version": "0.0.20",
-      "url": "",
-      "mandatory": false
     }
   ]
 }
